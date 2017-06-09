@@ -1,5 +1,6 @@
 {
 	"name": "math-machine",
+	"main": "lib/index.js",
 	"scripts": {
 		"test": "node ./test/*.test.js"
 	}
