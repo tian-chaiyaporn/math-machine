@@ -1,0 +1,6 @@
+{
+	"name": "math-machine",
+	"scripts": {
+		"test": "node ./test/*.test.js"
+	}
+}
