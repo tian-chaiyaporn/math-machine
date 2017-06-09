@@ -1,5 +1,5 @@
 const assert = require('assert');
-const math   = require('../');
+const math   = require('../lib');
 
 // sums two numbers when used correctly
 assert.equal(math(1, 2, '+'), 3);
